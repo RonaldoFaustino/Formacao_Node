@@ -1,0 +1,14 @@
+/erroShots
+/node_modules
+sc.log
+debug.log
+*WDIO.xunit.*.xml
+logs/*
+/CVS/*
+**/CVS/*
+.cvsignore
+*/.cvsignore
+evidencia/**/*.png
+evidencia/**/*.docx
+/Programas
+~$*.xls*
