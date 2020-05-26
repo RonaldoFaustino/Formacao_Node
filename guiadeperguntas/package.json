@@ -1,0 +1,23 @@
+{
+  "name": "guiadeperguntas",
+  "version": "1.0.0",
+  "description": "Curos de Progamcao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "mysql"
+  ],
+  "author": "Ronaldo Faustino <ohnirucse@msn.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.6"
+  }
+}
